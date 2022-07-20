@@ -9,7 +9,7 @@
 [![jSutne.md.png](https://s1.ax1x.com/2022/06/21/jSutne.md.png)](https://imgtu.com/i/jSutne)
 [![jSuN0H.md.png](https://s1.ax1x.com/2022/06/21/jSuN0H.md.png)](https://imgtu.com/i/jSuN0H)
 
-链接:https://neverp.github.io/notion.clock
+链接:[https://notion-clock-swart.vercel.app/](https://notion-clock-swart.vercel.app/)
 
 ![jSuU7d.md.png](https://s1.ax1x.com/2022/06/21/jSuU7d.md.png)
 
