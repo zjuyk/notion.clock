@@ -9,13 +9,13 @@
 [![jSutne.md.png](https://s1.ax1x.com/2022/06/21/jSutne.md.png)](https://imgtu.com/i/jSutne)
 [![jHspRK.png](https://s1.ax1x.com/2022/07/20/jHspRK.png)](https://imgtu.com/i/jHspRK)
 
-链接:[https://neverp.github.io/notion.clock/](https://neverp.github.io/notion.clock/)
+链接(不要嵌入图中的链接,图中的链接失效):[https://neverp.github.io/notion.clock/](https://neverp.github.io/notion.clock/)
 
 ![jSuU7d.md.png](https://s1.ax1x.com/2022/06/21/jSuU7d.md.png)
 
 #### 其他Notion美化小组件:
 
-[Notion Calendar ](https://calendar-dun.vercel.app/)
+[链接](https://neverp.github.io/calendar)
 
 [Github 仓库](https://github.com/neverp/calendar)
 
