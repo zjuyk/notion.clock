@@ -1,5 +1,5 @@
 # 一个漂亮的网页时钟，可嵌入Notion
-https://www.murphysec.com/accept?code=dde68b19078f4ed0f86adf03d698fad0&type=1&from=2&t=2
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1617935613806804992.svg?t=1)](https://www.murphysec.com/accept?code=dde68b19078f4ed0f86adf03d698fad0&type=1&from=2&t=2)
 #### 效果图:
 
 ![效果图](https://files.catbox.moe/jz32wt.png)
